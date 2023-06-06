@@ -28,4 +28,8 @@ Os alunos anotaram atentamente a todas as observações, criaram o fluxograma do
 
 - Estrutura de dados
 
+## Fluxograma
+
+![image](https://github.com/tcantunes/P2-Estrutura-de-dados/assets/103459242/836d2fa0-24b7-4a11-974a-a4155ad6ebe1)
+
   
