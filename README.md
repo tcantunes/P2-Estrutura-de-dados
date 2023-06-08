@@ -16,7 +16,7 @@ Os alunos anotaram atentamente a todas as observações, criaram o fluxograma do
 
 ### Participantes
 
-- Davi Narcizo
+- [Davi Narcizo](https://github.com/davi1443)
 - [Larissa Rocha](https://github.com/roclari)
 - [Tainá Narcizo](https://github.com/tcantunes)
 
