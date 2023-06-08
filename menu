@@ -1,3 +1,6 @@
+from pessoa import *
+from animal import *
+
 def menu_principal():
     cadastro_animais = CadastroAnimais()
     cadastro_pessoas = CadastroPessoas()
