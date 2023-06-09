@@ -1,5 +1,8 @@
 from pessoa import *
 from animal import *
+from cadastroAnimal import *
+from cadastroPessoa import *
+
 
 def menu_principal():
     cadastro_animais = CadastroAnimais()
