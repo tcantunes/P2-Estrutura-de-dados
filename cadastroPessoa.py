@@ -1,7 +1,7 @@
 from pessoa import *
 
 
-class CadastroPessoas():
+class CadastroPessoas:
     def __init__(self):
         self.pessoas = []
 
