@@ -24,7 +24,7 @@ Os alunos anotaram atentamente a todas as observações, criaram o fluxograma do
 
 - [Marcio Garrido](https://github.com/marciogarridoLaCop)
 
-#### Diciplina
+#### Disciplina
 
 - Estrutura de dados
 
