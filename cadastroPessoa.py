@@ -10,7 +10,7 @@ class CadastroPessoas:
         while not all(char.isalpha() or char.isspace() for char in nome):
             print("O nome deve conter apenas letras.")
             nome = input('Informe o nome do adotante: \n')
-        contato = input('Informe o contato do adotante(email ou telefone): \n')
+        contato = input('Informe o contato do adotante (E-mail ou Telefone): \n')
         interesse_tipo = input('Informe o interesse pelo tipo do animal: \n')
         while not all(char.isalpha() or char.isspace() for char in interesse_tipo):
             print("O interesse pelo tipo do animal deve conter apenas letras.")
