@@ -60,6 +60,20 @@ Os alunos anotaram atentamente a todas as observações, criaram o fluxograma do
 
 ![image](https://github.com/tcantunes/P2-Estrutura-de-dados/assets/103459242/6d125dc7-8a09-439c-97b7-419f67fa48a0)
 
+### Código rodando
+
+#### Cadastrando animal
+
+![image](https://github.com/tcantunes/P2-Estrutura-de-dados/assets/103459242/6334215b-a6b9-4b8a-b39c-c569c78013be)
+
+#### Cadastrando mais um animal
+
+![image](https://github.com/tcantunes/P2-Estrutura-de-dados/assets/103459242/b31b2f77-052a-4d20-bc83-47567f13ae3b)
+
+#### Mostrando animais cadastrados
+
+![image](https://github.com/tcantunes/P2-Estrutura-de-dados/assets/103459242/4f6e36cc-1e46-418b-b428-81f9c37366d5)
+
 #### Tecnologias usadas :computer_mouse:
 
 - Python
