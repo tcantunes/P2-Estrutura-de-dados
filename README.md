@@ -42,6 +42,10 @@ Os alunos anotaram atentamente a todas as observações, criaram o fluxograma do
 
 ![image](https://github.com/tcantunes/P2-Estrutura-de-dados/assets/103459242/a7de5877-aa96-4900-97c3-d0045a107133)
 
+### Classe CadastroAnimais:
+
+![image](https://github.com/tcantunes/P2-Estrutura-de-dados/assets/103459242/5a6619a0-665d-433e-8182-633e4e33ac5d)
+
 #### Tecnologias usadas :computer_mouse:
 
 - Python
