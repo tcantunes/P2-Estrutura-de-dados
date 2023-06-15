@@ -82,6 +82,10 @@ Os alunos anotaram atentamente a todas as observações, criaram o fluxograma do
 
 ![image](https://github.com/tcantunes/P2-Estrutura-de-dados/assets/103459242/c82480ac-7115-4168-9fb9-5f3e9c81a8e2)
 
+#### Pesquisando por tipo de animal
+
+![image](https://github.com/tcantunes/P2-Estrutura-de-dados/assets/103459242/e0cb3f83-0d47-413d-be0b-b4a303466881)
+
 #### Tecnologias usadas :computer_mouse:
 
 - Python
