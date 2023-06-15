@@ -74,6 +74,10 @@ Os alunos anotaram atentamente a todas as observações, criaram o fluxograma do
 
 ![image](https://github.com/tcantunes/P2-Estrutura-de-dados/assets/103459242/4f6e36cc-1e46-418b-b428-81f9c37366d5)
 
+#### Cadastrando pessoa
+
+![image](https://github.com/tcantunes/P2-Estrutura-de-dados/assets/103459242/225039df-9187-4d8d-b111-ccbdb6789f97)
+
 #### Tecnologias usadas :computer_mouse:
 
 - Python
