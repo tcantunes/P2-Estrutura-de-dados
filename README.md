@@ -30,8 +30,7 @@ Os alunos anotaram atentamente a todas as observações, criaram o fluxograma do
 
 ## Fluxograma :card_file_box:
 
-![image](![Fluxograma - E D D  (1)](https://github.com/tcantunes/P2-Estrutura-de-dados/assets/98750360/4f003ee0-09b4-4220-a9c9-501fd23b9940)
-)
+(![image](https://github.com/tcantunes/P2-Estrutura-de-dados/assets/98750360/4f003ee0-09b4-4220-a9c9-501fd23b9940))
 
 #### Tecnologias usadas :computer_mouse:
 
