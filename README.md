@@ -86,6 +86,10 @@ Os alunos anotaram atentamente a todas as observações, criaram o fluxograma do
 
 ![image](https://github.com/tcantunes/P2-Estrutura-de-dados/assets/103459242/e0cb3f83-0d47-413d-be0b-b4a303466881)
 
+#### Emitindo relatório
+
+![image](https://github.com/tcantunes/P2-Estrutura-de-dados/assets/103459242/9f5af09a-4c19-4b46-822c-5f8d9b400599)
+
 #### Tecnologias usadas :computer_mouse:
 
 - Python
